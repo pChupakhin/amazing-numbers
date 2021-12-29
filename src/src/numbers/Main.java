@@ -10,7 +10,7 @@ public class Main{
 		Response response = new Response(request);
 		System.out.print("\nWelcome to Amazing Numbers!\n" + response);
 
-		while(request.forProgramTerminate()) {
+		while(!request.forProgramTerminate()) {
 			request = new Request(scanner.nextLine());
 			response = new Response(request);
 			System.out.print(response);
