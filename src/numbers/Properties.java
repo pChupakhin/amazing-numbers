@@ -1,4 +1,4 @@
-package src.numbers;
+package numbers;
 
 public class Properties {
 

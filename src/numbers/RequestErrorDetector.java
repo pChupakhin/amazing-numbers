@@ -1,4 +1,4 @@
-package src.numbers;
+package numbers;
 
 import java.util.Arrays;
 import java.util.List;

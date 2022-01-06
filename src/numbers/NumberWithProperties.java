@@ -1,4 +1,4 @@
-package src.numbers;
+package numbers;
 
 import java.util.function.Supplier;
 import java.util.stream.IntStream;

@@ -1,4 +1,4 @@
-package src.numbers;
+package numbers;
 
 import java.util.Scanner;
 import java.util.stream.Collectors;
